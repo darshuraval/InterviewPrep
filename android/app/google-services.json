@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173216776825",
+    "project_id": "interviewprep-d76e0",
+    "storage_bucket": "interviewprep-d76e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173216776825:android:6d2a91fe085fa23e254aa8",
+        "android_client_info": {
+          "package_name": "com.darshan.interviewprep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173216776825-gdd4o1r07fgp37kpo7p216oh3e8quajm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4vg2wMgja326TSFQ28YsRIeTqa1L9zJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173216776825-gdd4o1r07fgp37kpo7p216oh3e8quajm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
